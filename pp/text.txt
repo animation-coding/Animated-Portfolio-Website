@@ -1,0 +1,35 @@
+
+
+
+
+
+
+
+
+
+css
+
+<link rel="stylesheet" href="asstes/css/responsive.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css'>
+
+
+js
+
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/vanilla-tilt/1.7.0/vanilla-tilt.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.3/TweenMax.min.js"></script>
+    <script src="asstes/js/main.js"></script>
+    <script src="asstes/js/animation.js"></script>
+
+
+
+
+   <p>I’m product designer that focuses on solving your problems by making a product that will
+                                exceed your expectations so far.</p>
+
+    
+                                <a href="#"><i class="fa-brands fa-twitter"></i></a>
+                                <a href="#"><i class="fa-brands fa-github"></i></a>
+                                <a href="#"><i class="fa-brands fa-discord"></i></a>
+                                <a href="#"><i class="fa-brands fa-instagram"></i></a>
